@@ -1,0 +1,17 @@
+n;chofer;dia;vehiculo;rutas;costos
+1;CH4;D1;delta;B;477.5
+2;CH1;D2;gamma;C;597.5
+3;CH3;D3;alfa;A;587.5
+4;CH2;D4;beta;D;810
+5;CH1;D1;alfa;D;787.5
+6;CH4;D2;beta;A;587.5
+7;CH2;D3;delta;C;607.5
+8;CH3;D4;gamma;B;500
+9;CH3;D1;beta;C;687.5
+10;CH3;D2;delta;D;695
+11;CH1;D3;beta;B;565
+12;CH1;D4;delta;A;615
+13;CH2;D1;gamma;A;687.5
+14;CH2;D2;alfa;B;550
+15;CH4;D3;gamma;D;687.5
+16;CH4;D4;alfa;C;700
